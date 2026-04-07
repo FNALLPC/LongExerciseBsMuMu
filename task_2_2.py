@@ -84,7 +84,9 @@ def task_2_2():
     leg.SetLineWidth(0)
     leg.SetHeader("Category %d" % category)
     leg.AddEntry(frame.findObject("t_rds_data"), "Real Data", "EP")
-    leg.AddEntry(frame.findObject("t_pdf_sig"),  "Fit", "L")
+    # "t_pdf_sig" was never plotted (fit was plotted as "t_model"); using "t_model" instead
+    # leg.AddEntry(frame.findObject("t_pdf_sig"),  "Fit", "L")  # original C++ (bug: findObject returns nullptr)
+    leg.AddEntry(frame.findObject("t_model"),  "Fit", "L")
     leg.AddEntry(frame.findObject("t_pdf_comb"), "Combinatorial bkg.", "L")
     leg.Draw()
 
