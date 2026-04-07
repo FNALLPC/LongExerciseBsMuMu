@@ -34,7 +34,7 @@ void task_4_2()
     double sum_weight = 0.;
     double sum_weight_err = 0.;
     for(int proc=0; proc<(int)decay.size(); proc++) {
-      TFile *fin = new TFile("/eos/uscms/store/user/cmsdas/2025/long_exercises/long-ex-bs-mumu/"+decay[proc]+".root");
+      TFile *fin = new TFile("root://cmseos.fnal.gov//store/user/cmsdas/2025/long_exercises/long-ex-bs-mumu/"+decay[proc]+".root");
       TTree *tin = (TTree*)fin->Get(decay[proc]);
       
       unsigned int cate_t;
