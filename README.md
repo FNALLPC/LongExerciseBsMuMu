@@ -1,5 +1,5 @@
 # Long exercise BPH
-## DO NOT RUN THIS BRANCH ON LPC!!!  IT CONTAINS HARD CODED EOS PATHS THAT WILL CRASH AN INTERACTIVE NODE
+
 This exercise is based on the recent publication on the measurement of B0s→μ+μ− decay branching fraction and effective lifetime using the CMS Run-2 data sets (a.k.a. BMM5 analysis), see [BPH-21-006](https://cms-results.web.cern.ch/cms-results/public-results/publications/BPH-21-006/index.html) for details. 
 
 In this exercise we will start with an introductory presentation, quickly touch the reconstruction of B meson using the standard tool from the BPH group, and practice how to construct an unbinned maximum likelihood fitter to extract the decay branching fractions based on RooFit (the real main task!).
