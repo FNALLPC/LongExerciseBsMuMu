@@ -28,16 +28,14 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 > * [CMS DAS offline event display short exercise](https://fnallpc.github.io/statistics-das/index.html)
 {: .prereq}
 
-
 ### Goal of this exercise
 
 To find new Physics.
 
 The exercise is performed on data collected during Run 2. 
 
-
 ### Facilitators CMSDAS LPC 2026
-<img src="fig/loading_circles_set.jpg" alt="" style="width:80%; height:auto">
+<img src="fig/loading_circles_set.jpg" alt="" style="width:auto; height:60%">
 
  * [Chris Cosby](mailto:ccosby@fnal.gov) (FNAL)
  * Andrew Melo (Vanderbilt)
@@ -48,7 +46,6 @@ The exercise is performed on data collected during Run 2.
 These instructions were created by [Kai-Feng Chen](mailto:Kai-Feng.Chen@cern.ch) and [Federica Riti](mailto:federica.riti@cern.ch) for CERN CMSDAS 2024, and are minorly augmented here to run on cmslpc for LPC CMSDAS 2026.  Big thanks and all credit to them for their hard work in creating and maintaining this exercise! 
 
 This is an introduction to the exercise based on the recent publication on the measurement of $B_s^0 \to \mu^+\mu^-$ decay branching fraction and effective lifetime using the CMS Run-2 data sets (a.k.a. BMM5 analysis), see [BPH-21-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/BPH-21-006/index.html) for details. In this exercise we will start with an introductory presentation, quickly touch the reconstruction of B meson using the standard tool from BPH group, and practice how to construct an unbinned maximum likelihood fitter to extract the decay branching fractions based on RooFit (the real main task!).
-
 
 ### Introductory slides
 
