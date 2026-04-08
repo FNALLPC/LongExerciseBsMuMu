@@ -1,4 +1,3 @@
----
 # Carpentries lesson configuration
 # See https://carpentries.github.io/lesson-example/ for details
 
@@ -35,6 +34,8 @@ eventbrite: ""
 github:         "https://github.com/FNALLPC/LongExerciseBsMuMu"
 repo:           "LongExerciseBsMuMu"
 root:           "."
+baseurl:        "/LongExerciseBsMuMu"
+url:            "https://fnallpc.github.io"
 life_cycle:     "stable"
 build_pdf:      "no"
 
@@ -58,4 +59,3 @@ markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
     disable: true
----
