@@ -9,7 +9,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 {% comment %} This is a comment in Liquid {% endcomment %}
 
 <a href="https://www.ellipsix.net/blog/2012/11/attachments/Bd9y/Bs_mumu_super.png">
-  <img src="https://www.ellipsix.net/blog/2012/11/attachments/Bd9y/Bs_mumu_super.png" alt="$B_s^0 \to \mu^+\mu^-$" height=420 width=600 />
+  <img src="https://www.ellipsix.net/blog/2012/11/attachments/Bd9y/Bs_mumu_super.png" alt="$B_s^0 \to \mu^+\mu^-$" height=220 width=600 />
 </a>
 
 > ## Links
@@ -31,24 +31,13 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 ### Goal of this exercise
 
-This exercise will search for long-lived particles decaying in the CMS muon detector, where we use the muon detector as a sampling calrimeter to identify displaced showers produced by decays of LLPs. 
-
-The signature is enabled by the unique design of CMS muon detectors, composed of detector planes interleaved with the steel layers of the magnet flux-return yoke. Decays of LLPs in the EMD induce hadronic and electromagnetic showers, giving rise to a high hit multiplicity in localized detector regions that can be efficiently identified with a novel reconstruction technique. The steel flux-return yoke in the CMS detector also provides exceptional shielding from the SM background that dominates existing LLP searches. 
-
-The exercise is based on [CMS-EXO-20-015](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-015/index.html), which is the first paper to use this innovative LLP reconstruction technique to search for high-multiplicity muon detector showers(MDS).
+To find new Physics.
 
 The exercise is performed on data collected during Run 2. 
 
-Students will perform the full analysis to search for LLPs decaying in the endcap muon detectors:
- * learn general feature of long-lived particles
- * study the reconstruction of muon detector shower;
- * optimize the event selection;
- * estimate background yield with the ABCD method;
- * perform statistical analysis on the results
- * make event displays of signal simulation events
 
 ### Facilitators CMSDAS LPC 2026
-<img src="fig/loading_circles_set.jpg" alt="" style="width:80%">
+<img src="fig/loading_circles_set.jpg" alt="" style="width:80%; height:auto">
 
  * [Chris Cosby](mailto:ccosby@fnal.gov) (FNAL)
  * Andrew Melo (Vanderbilt)
@@ -63,11 +52,11 @@ This is an introduction to the exercise based on the recent publication on the m
 
 ### Introductory slides
 
-We will start with this introductory slides: [CMSDAS.pdf](https://indico.cern.ch/event/1518299/contributions/6389293/attachments/3199470/5695600/CMSDAS_2026.pdf).
+We will start with this introductory slides: [CMSDAS_BsMuMu.pdf](https://indico.cern.ch/event/1518299/contributions/6389314/attachments/3200567/5697675/BtoMuMu%20Exercise%202026%20LPC%20CMSDAS.pdf).
 
 ### Support
 
-Join the [LongEX BsMuMU Mattermost channel](https://mattermost.web.cern.ch/cmsdaslpc2026/channels/longexllp) and don't hesitate to ask for help from the facilitators in the room.
+Join the [LongEX BsMuMU Mattermost channel](https://mattermost.web.cern.ch/cmsdaslpc2026/channels/longexbsmumu) and don't hesitate to ask for help from the facilitators in the room.
 
 
 {% include links.md %}
