@@ -3,16 +3,16 @@ title: "Introduction"
 teaching: 15
 exercises: 0
 questions:
-- "What is the physics motivation for measuring B0s→μ+μ−?"
+- "What is the physics motivation for measuring B<sup>0</sup><sub>s</sub>→μ<sup>+</sup>μ<sup>−</sup>?"
 - "What is the overall analysis strategy?"
 objectives:
-- "Understand why B0s→μ+μ− is a sensitive probe of new physics."
+- "Understand why B<sup>0</sup><sub>s</sub>→μ<sup>+</sup>μ<sup>−</sup> is a sensitive probe of new physics."
 - "Know the key ingredients of the branching fraction measurement."
 - "Understand the role of the normalization channel."
 keypoints:
-- "B0s→μ+μ− is a FCNC decay heavily suppressed in the SM — new physics can enhance it."
+- "B<sup>0</sup><sub>s</sub>→μ<sup>+</sup>μ<sup>−</sup> is a FCNC decay heavily suppressed in the SM — new physics can enhance it."
 - "The branching fraction is extracted from a simultaneous fit across BDT categories."
-- "B+→J/ψK+ serves as the normalization channel to cancel many systematic uncertainties."
+- "B<sup>+</sup>→J/ψK<sup>+</sup> serves as the normalization channel to cancel many systematic uncertainties."
 ---
 
 ## Physics motivation
