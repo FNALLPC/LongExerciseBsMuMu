@@ -1,0 +1,61 @@
+---
+# Carpentries lesson configuration
+# See https://carpentries.github.io/lesson-example/ for details
+
+title: "CMS DAS Long Exercise: Measurement of B0s→μ+μ−"
+kind: "lesson"
+carpentry: "incubator"
+
+# Set the default layout for pages in this lesson
+defaults:
+  - values:
+      root: .
+      layout: page
+
+# Event details (update each year)
+venue:      "LPC CMS Data Analysis School"
+address:    "Fermi National Accelerator Laboratory, Batavia, IL"
+country:    "us"
+language:   "en"
+latitude:   "41.842282"
+longitude:  "-88.255637"
+humandate:  "January 2026"
+humantime:  ""
+startdate:  ""
+enddate:    ""
+
+instructor: []
+helper:     []
+email:      []
+
+collaborative_notes: ""
+eventbrite: ""
+
+# Links
+github:         "https://github.com/FNALLPC/LongExerciseBsMuMu"
+repo:           "LongExerciseBsMuMu"
+root:           "."
+life_cycle:     "stable"
+build_pdf:      "no"
+
+# Lesson-specific
+workshop_repo:  "https://github.com/FNALLPC/LongExerciseBsMuMu"
+workshop_site:  "https://fnallpc.github.io/LongExerciseBsMuMu"
+
+exclude:
+  - Makefile
+  - bin/
+  - .Rproj.user/
+  - .Rhistory
+  - .RData
+  - etc/
+
+plugins:
+  - jekyll-redirect-from
+
+# Keep these last
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+---
