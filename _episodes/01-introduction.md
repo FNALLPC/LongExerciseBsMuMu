@@ -1,4 +1,3 @@
-
 ---
 title: "Introduction"
 teaching: 15
