@@ -3,20 +3,20 @@ title: "Signal MC Fit"
 teaching: 10
 exercises: 40
 questions:
-- "How do we model the B<sup>+</sup>→J/ψK<sup>+</sup> signal peak?"
+- "How do we model the $B^+ \to J/\psi K^+$ signal peak?"
 - "How do we apply MC-derived shape parameters to data?"
 objectives:
-- "Fit a double Gaussian model to B<sup>+</sup>→J/ψK<sup>+</sup> MC."
+- "Fit a double Gaussian model to $B^+ \to J/\psi K^+$ MC."
 - "Understand mean shift and resolution scale corrections."
 - "Fit the full signal+background model to data."
 keypoints:
 - "The signal shape is fixed from MC, with a floating mean shift and resolution scale fitted in data."
-- "The combinatorial background uses an exponential; the J/ψ<sup>+</sup>X tail uses an error function."
+- "The combinatorial background uses an exponential; the $J/\psi^+X$ tail uses an error function."
 ---
 
 ## Task 2.1 — Double Gaussian fit to MC (category 0)
 
-Fit a double Gaussian model to the B<sup>+</sup>→J/ψK<sup>+</sup> MC in category 0.
+Fit a double Gaussian model to the $B^+ \to J/\psi K^+$ MC in category 0.
 The invariant mass range is 5.0–5.8 GeV.
 
 <!-- TODO: add figure from task_2_1 output -->
@@ -33,8 +33,8 @@ The invariant mass range is 5.0–5.8 GeV.
 
 ## Task 2.2 — Fit data with fixed signal shape
 
-Use the MC-derived signal shape (fixed parameters) and fit the B<sup>+</sup>→J/ψK<sup>+</sup>
-data with a signal + combinatorial + J/ψ<sup>+</sup>X background model.
+Use the MC-derived signal shape (fixed parameters) and fit the $B^+ \to J/\psi K^+$
+data with a signal + combinatorial + $J/\psi^+X$ background model.
 
 <!-- TODO: add figure from task_2_2 output -->
 
@@ -71,14 +71,14 @@ Repeat Tasks 2.1–2.3 for BDT category 1: fit the MC first, then fit the data w
 > Run `task_2_4.py`. Note that the MC parameters are different for category 1.
 {: .challenge}
 
-## Task 2.5 — B<sub>s</sub>→J/ψφ signal fit
+## Task 2.5 — $B_s \to J/\psi\phi$ signal fit
 
-Repeat the MC+data fit for the B<sub>s</sub>→J/ψφ channel (mass peak near 5.37 GeV).
+Repeat the MC+data fit for the $B_s \to J/\psi\phi$ channel (mass peak near 5.37 GeV).
 
 <!-- TODO: add figure from task_2_5 output -->
 
 > ## Task 2.5
 >
 > Run `task_2_5.py`. Note the different mass peak position and the simpler background
-> (no J/ψ<sup>+</sup>X tail needed for the B<sub>s</sub>→J/ψφ channel).
+> (no $J/\psi^+X$ tail needed for the $B_s \to J/\psi\phi$ channel).
 {: .challenge}

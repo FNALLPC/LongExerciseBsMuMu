@@ -35,7 +35,7 @@ To find new Physics.
 The exercise is performed on data collected during Run 2. 
 
 ### Facilitators CMSDAS LPC 2026
-<img src="fig/loading_circles_set.jpg" alt="" style="height:40%; width:auto">
+<img src="fig/loading_circles_set.jpg" alt="" style="width:60%; height:200px">">
 
  * [Chris Cosby](mailto:ccosby@fnal.gov) (FNAL)
  * Andrew Melo (Vanderbilt)
