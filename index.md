@@ -8,8 +8,8 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
-<a href="{{ page.root }}/fig/CMS-EXO-20-015_Figure-aux_004-a.png">
-  <img src="{{ page.root }}/fig/CMS-EXO-20-015_Figure-aux_004-a.png" alt="event display" height=420 width=600 />
+<a href="https://www.ellipsix.net/blog/2012/11/attachments/Bd9y/Bs_mumu_super.png">
+  <img src="https://www.ellipsix.net/blog/2012/11/attachments/Bd9y/Bs_mumu_super.png" alt="$B_s^0 \to \mu^+\mu^-$" height=420 width=600 />
 </a>
 
 > ## Links
@@ -48,17 +48,17 @@ Students will perform the full analysis to search for LLPs decaying in the endca
  * make event displays of signal simulation events
 
 ### Facilitators CMSDAS LPC 2026
-<img src="fig/facilitators_2026.png" alt="" style="width:80%">
+<img src="fig/loading_circles_set.jpg" alt="" style="width:80%">
 
- * [[mailto:ccosby@fnal.gov][Chris Cosby]] (FNAL)
+ * [Chris Cosby](mailto:ccosby@fnal.gov) (FNAL)
  * Andrew Melo (Vanderbilt)
  * Gabriela Hamilton (U. Virginia)
  * Harshul Gupta (U. Illinois, Chicago)
  * Mohammad Abrar Wadud (U. Illinois, Chicago)
 
-These instructions were created by [[mailto:Kai-Feng.Chen@cern.ch][Kai-Feng Chen]] and [[mailto:federica.riti@cern.ch][Federica Riti]] for CERN CMSDAS 2024, and are minorly augmented here to run on cmslpc for LPC CMSDAS 2026.  Big thanks and all credit to them for their hard work in creating and maintaining this exercise! 
+These instructions were created by [Kai-Feng Chen](mailto:Kai-Feng.Chen@cern.ch) and [Federica Riti](mailto:federica.riti@cern.ch) for CERN CMSDAS 2024, and are minorly augmented here to run on cmslpc for LPC CMSDAS 2026.  Big thanks and all credit to them for their hard work in creating and maintaining this exercise! 
 
-This is an introduction to the exercise based on the recent publication on the measurement of $B_s^0 \to \mu^+\mu^-$ decay branching fraction and effective lifetime using the CMS Run-2 data sets (a.k.a. BMM5 analysis), see [[http://cms-results.web.cern.ch/cms-results/public-results/publications/BPH-21-006/index.html][BPH-21-006]] for details. In this exercise we will start with an introductory presentation, quickly touch the reconstruction of B meson using the standard tool from BPH group, and practice how to construct an unbinned maximum likelihood fitter to extract the decay branching fractions based on RooFit (the real main task!).
+This is an introduction to the exercise based on the recent publication on the measurement of $B_s^0 \to \mu^+\mu^-$ decay branching fraction and effective lifetime using the CMS Run-2 data sets (a.k.a. BMM5 analysis), see [BPH-21-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/BPH-21-006/index.html) for details. In this exercise we will start with an introductory presentation, quickly touch the reconstruction of B meson using the standard tool from BPH group, and practice how to construct an unbinned maximum likelihood fitter to extract the decay branching fractions based on RooFit (the real main task!).
 
 
 ### Introductory slides
