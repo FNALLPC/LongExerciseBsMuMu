@@ -14,7 +14,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 > ## Links
 > * [CMSDAS at LPC2026](https://indico.cern.ch/event/1518299/)
-> * [Github repo](https://github.com/FNALLPC/MDS_CMSDAS)
+> * [Github repo](https://github.com/FNALLPC/LongExerciseBsMuMu)
 > * [Paper reference](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-015/index.html)
 > * [EXO-20-015 CADI page](https://cms.cern.ch/iCMS/analysisadmin/cadilines?id=2391&ancode=EXO-20-015&tp=an&line=EXO-20-015)
 {: .callout}
@@ -50,12 +50,11 @@ Students will perform the full analysis to search for LLPs decaying in the endca
 ### Facilitators CMSDAS LPC 2026
 <img src="fig/facilitators_2026.png" alt="" style="width:80%">
 
- * Christina Wang (FNAL)
- * Colin Crovella (University of Alabama)
- * Irene Dutta (FNAL)
- * Gigi Gokcen Karslioglu (Purdue)
- * Murtaza Safdari (FNAL)
- * Richa Sharma (University of Puerto Rico)
+ * Chris Cosby (FNAL)
+ * Andrew Melo (Vanderbilt)
+ * Gabriela Hamilton (U. Virginia)
+ * Harshul Gupta (U. Illinois, Chicago)
+ * Mohammad Abrar Wadud (U. Illinois, Chicago)
 
 ### Introductory slides
 
@@ -63,7 +62,7 @@ We will start with this introductory slides: [CMSDAS.pdf](https://indico.cern.ch
 
 ### Support
 
-Join the [LongEX LLP Mattermost channel](https://mattermost.web.cern.ch/cmsdaslpc2026/channels/longexllp) and don't hesitate to ask for help from the facilitators in the room.
+Join the [LongEX BsMuMU Mattermost channel](https://mattermost.web.cern.ch/cmsdaslpc2026/channels/longexllp) and don't hesitate to ask for help from the facilitators in the room.
 
 
 {% include links.md %}
