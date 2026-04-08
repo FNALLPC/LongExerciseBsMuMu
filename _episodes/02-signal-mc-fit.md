@@ -3,15 +3,15 @@ title: "Signal MC Fit"
 teaching: 10
 exercises: 40
 questions:
-- "How do we model the $B^+ \to J/\psi K^+$ signal peak?"
+- 'How do we model the $B^+ \to J/\psi K^+$ signal peak?'
 - "How do we apply MC-derived shape parameters to data?"
 objectives:
-- "Fit a double Gaussian model to $B^+ \to J/\psi K^+$ MC."
+- 'Fit a double Gaussian model to $B^+ \to J/\psi K^+$ MC.'
 - "Understand mean shift and resolution scale corrections."
 - "Fit the full signal+background model to data."
 keypoints:
 - "The signal shape is fixed from MC, with a floating mean shift and resolution scale fitted in data."
-- "The combinatorial background uses an exponential; the $J/\psi^+X$ tail uses an error function."
+- 'The combinatorial background uses an exponential; the $J/\psi^+X$ tail uses an error function.'
 ---
 
 ## Task 2.1 — Double Gaussian fit to MC (category 0)

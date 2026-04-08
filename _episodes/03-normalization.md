@@ -3,16 +3,16 @@ title: "Normalization Channel"
 teaching: 10
 exercises: 30
 questions:
-- "How do we fit the normalization channel $B^+ \to J/\psi K^+$?"
-- "How do we extract the $B^+ \to J/\psi K^+$ yield and efficiency?"
+- 'How do we fit the normalization channel $B^+ \to J/\psi K^+$?'
+- 'How do we extract the $B^+ \to J/\psi K^+$ yield and efficiency?'
 - "How do we compute the fs/fu production fraction ratio?"
 objectives:
-- "Fit the $B^+ \to J/\psi K^+$ data and MC to extract signal yield and shape parameters."
-- "Fit the $B_s \to J/\psi\phi$ channel to extract the Bs yield."
+- 'Fit the $B^+ \to J/\psi K^+$ data and MC to extract signal yield and shape parameters.'
+- 'Fit the $B_s \to J/\psi\phi$ channel to extract the Bs yield.'
 - "Compute fs/fu from the ratio of the two channel yields."
 keypoints:
-- "The normalization channel $B^+ \to J/\psi K^+$ cancels many systematic uncertainties."
-- "fs/fu is measured from data using $B_s \to J/\psi\phi$ and $B^+ \to J/\psi K^+$."
+- 'The normalization channel $B^+ \to J/\psi K^+$ cancels many systematic uncertainties.'
+- 'fs/fu is measured from data using $B_s \to J/\psi\phi$ and $B^+ \to J/\psi K^+$.'
 ---
 
 ## Task 3.1 — $B^+ \to J/\psi K^+$ normalization fit

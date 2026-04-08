@@ -3,16 +3,16 @@ title: "Introduction"
 teaching: 15
 exercises: 0
 questions:
-- "What is the physics motivation for measuring $B_s^0 \to \mu^+\mu^-$?"
+- 'What is the physics motivation for measuring $B_s^0 \to \mu^+\mu^-$?'
 - "What is the overall analysis strategy?"
 objectives:
-- "Understand why $B_s^0 \to \mu^+\mu^-$ is a sensitive probe of new physics."
+- 'Understand why $B_s^0 \to \mu^+\mu^-$ is a sensitive probe of new physics.'
 - "Know the key ingredients of the branching fraction measurement."
 - "Understand the role of the normalization channel."
 keypoints:
-- "$B_s^0 \to \mu^+\mu^-$ is a FCNC decay heavily suppressed in the SM — new physics can enhance it."
+- '$B_s^0 \to \mu^+\mu^-$ is a FCNC decay heavily suppressed in the SM — new physics can enhance it.'
 - "The branching fraction is extracted from a simultaneous fit across BDT categories."
-- "$B^+ \to J/\psi K^+$ serves as the normalization channel to cancel many systematic uncertainties."
+- '$B^+ \to J/\psi K^+$ serves as the normalization channel to cancel many systematic uncertainties.'
 ---
 
 ## Physics motivation
